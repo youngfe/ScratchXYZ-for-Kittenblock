@@ -1,0 +1,9 @@
+{
+    "name": "ScratchXYZ",
+    "version": "1.0",
+    "type": "scratch3",
+    "flash": "uf2",
+    "shopLink": "https://www.ScratchGRBL.com/",
+    "extensions": ["ScratchXYZ"],
+    "image": "ScratchXYZ.png"
+}
